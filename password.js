@@ -1,4 +1,4 @@
-let pass = prompt("合言葉を入力してください(普通にキモイ)");
+var pass = prompt("合言葉を入力してください(普通にキモイ)");
 switch (pass) {
     case "まんこ":
         window.open("https://fmsabu.github.io/manko/manko.html");

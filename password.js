@@ -21,6 +21,6 @@ switch (pass) {
         break;
 
     default:
-        alert("ページを更新してやり直してください");
+        alert("不正解です　もし正解したら画像の通りにしてください　okを押して画像を確認してください");
         break;
 }

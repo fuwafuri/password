@@ -12,8 +12,8 @@ switch (pass) {
         window.open("");
         break;
 
-    case "野獣先輩":
-        window.open("");
+    case "くじびき":
+        window.open("https://fuwafuri.github.io/kuzibiki/omikuzifuwafuri.html");
         break;
     
     case "エロ漫画":
@@ -24,3 +24,4 @@ switch (pass) {
         alert("不正解です　もし正解したら画像の通りにしてください　okを押して画像を確認してください");
         break;
 }
+
